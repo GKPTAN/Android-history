@@ -1,0 +1,9 @@
+@media (max-width: 1024px) {
+    div {
+        background-color: white;
+        padding-top: 1px;
+        margin-right: 160px;
+        margin-left: 160px;
+        margin-bottom: 19px;
+    }
+}
